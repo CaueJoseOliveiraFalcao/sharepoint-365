@@ -1,0 +1,30 @@
+ Oque e Sharepoint
+
+    Amazenamento oganização camprtailhamento por tipo de acesso
+
+    Solucção de intranet e portais colaborativos 
+
+    Plataforma de sites com File Server (GED) = gestao eletronica de documentos
+
+    Plataforma de aplicalções web prar portais web , intranets e sistemas de gestao
+
+    Sistema de Gestao empresarial
+
+    Busca avancada corporativa
+
+    eDiscorevy
+        monitroramento por IA por cada colaborador auditoria
+    
+
+    Documentação de processos
+
+    ECM - Enterpire Contement Maganager
+        filtrar acesso a gocuemtnos
+        gestao de conteudos 
+        classificaão de conteudos
+    
+    Listas
+        banco de dados low code 
+        Excel com integração sharepoint 
+    Calendarios por equipe
+        
