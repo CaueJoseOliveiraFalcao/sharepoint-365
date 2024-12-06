@@ -1,0 +1,59 @@
+Modelos de nuvem 
+    On premisses(servidor local)
+
+    Voce cuida de tudo
+        aplicalções
+        dados 
+        Runtime
+        Middleware
+        SO 
+        Virtualização
+        Servidores 
+        Amazenamento 
+        Rede
+    
+    IaaS(Infraestrutura como Servico)
+        Nuvem como estrutura
+        Ex AWS , AZURE , GOOGLE CLOUD
+        Voce cuida de 
+            aplicalções
+            dados 
+            Runtime
+            Middleware
+            SO
+        Nuvem
+            Virtualização
+            Servidores 
+            Amazenamento 
+            Rede
+    PaaS(Plataforma como servico)
+        ambiente proto para dlploy de aplicações
+        Voce cuida de
+            aplicalções
+            dados 
+        Nuvem
+            Runtime
+            Middleware
+            SO 
+            Virtualização
+            Servidores 
+            Amazenamento 
+            Rede
+    SaaS(Sofware Como Servico)
+        365 , Google workspace
+        Nuvem
+            aplicalções
+            dados 
+            Runtime
+            Middleware
+            SO 
+            Virtualização
+            Servidores 
+            Amazenamento 
+            Rede
+
+Como estrutura sharepoint
+    Plataforma-> 365
+    Azure Active Directory->Gestao de identeidades(usuarios)
+    sharepoint, teams -> Aplicações 
+    
