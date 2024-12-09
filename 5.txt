@@ -1,0 +1,23 @@
+limites de espaços
+
+small bussines
+    email(exgange)50gb
+    total 1tb para sharepoint 
+    +10gb por usuario
+    1tb onedrive for bussines
+    ate 300 funcionarios
+    limite de upload por unico arquivo 250gb
+    anexo por email ou listas sharepoint 250mb
+    400 caractteres = caminho+nome
+Enterpise
+    total 1tb para sharepoint 
+    +10gb por usuario
+    email(exgange)100gb
+    1tb onedrive for bussines
+    500mill funcionarios
+    limite de upload por unico arquivo 250gb
+    anexo por email ou listas sharepoint 250mb
+movel
+    email(exgange)100gb
+
+e possivel contratar espaço adicionals
